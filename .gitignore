@@ -26,5 +26,9 @@ build/*
 *.bat
 **/*.bat
 
+*.ipr
+*.iws
+*.iml
+
 out/
 out/*
