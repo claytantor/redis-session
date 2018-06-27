@@ -32,3 +32,5 @@ build/*
 
 out/
 out/*
+
+src/main/resources/application.properties
